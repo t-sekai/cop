@@ -1,5 +1,8 @@
-# cop
-A Computational Platform to Optimize Irrigation for Maximum Farming Yield using Deep Learning and Dynamic Modeling
+# Crop Optimal Planning
+
+**A Computational Platform to Optimize Irrigation for Maximum Farming Yield using Deep Learning and Dynamic Modeling**
+
+Synopsys Science Fair Honorable Mention, Physical Science and Engineering Section. Mentored by Prof. Zaiyi Liao, Ryerson University.
 
 Link to project paper: [Drive](https://drive.google.com/file/d/1EdHz6PN-UrjZZ6hKbUZOwNl6XwHDt5gU/view?usp=drive_link)
 
